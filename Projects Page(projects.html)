@@ -1,0 +1,40 @@
+html
+<!DOCTYPE html>
+<html lang="en"
+<head>
+    <meta charst="UTF-8>
+    <meta name="viewport" content="width=device-width, initial-scale=1.O">
+    <title>Projects | My Portfolio</title>
+</head>
+<body>
+
+    <!-- Shared Navigation -->
+    <header>
+        <nav>
+            <ul>
+               <li><a href="index.html">Home</a></li>
+               <li><a href="projects.html">Projects/Work</a></li>
+               <li><a href="about.html">About/Contact</a></li>
+          </ul>
+      </nav>
+  </header> 
+
+  <main>
+      <section>
+          <h1>My Projects & Work</h1>
+          <p>Placeholder intro text: Explore some of the digital items and websites I have designed and built recently.</p>
+      </section>
+
+      <section>
+          <h2>Project 1: E-commerce Layout</h2>
+          <h3>Built with HTML & CSS</h3>
+          <p>Placeholder project description goes here.</p>
+      </section>
+  </main>
+
+  <footer>
+     <p>&copy; 2026 Personal Portfolio. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
